@@ -32,11 +32,15 @@
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />  
 </div>
 <br/>
-<div align="center">
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youngme92&show_icons=true&&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=youngme92&layout=compact&theme=dracula)
+
+<!-- <div align="center">
   	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youngme92&layout=compact&theme=dracula">
     <br/>
     <img src="https://github-readme-stats.vercel.app/api?username=youngme92&show_icons=true&&theme=dracula">
-</div>
+</div> -->
 <!--
 **youngme92/youngme92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
